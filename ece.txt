@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ece</title>
+</head>
+<style>
+body{
+background-color:skyblue;
+}
+h1{
+color:blue;
+}
+p{
+color:brown;
+}
+img{
+width:400px;
+height:200px;
+}
+</style>
+<body>
+    <h1>Electronics and Communication Engineering</h1>
+<img src="https://svuniversity.edu.in/storage/2021/12/ece.png" alt="Description of image">
+<h1>About E.C.E. Department</h1>
+    <p>Electronics and Communication Engineering (ECE) is an emerging stream that offers firm promises to advance your career an edge. Studying this domain of engineering would mean mastering the skills related to electronics and communication engineering as well as having an insight into the world of software skills.
+The U.G. programme Electronics and Communication Engineering (ECE) was started under the Department of Electrical and Electronics Engineering in 1971. After a long co-existence with EEE, due to administrative reasons and anticipated accelerated growth, it got separated and formed as Department of Electronics and Communication Engineering. Department of Electronics and Communication Engineering (ECE) is established in the year 2011, to meet the requirements of the emerging trends in Electronics as well as communications; to bright needs of the students, industry and society.</p>
+<p>The Department is offering one UG programme, B.Tech in ECE and two PG programmes (1) M.Tech in Communication Systems started in 2011-12 with an intake of 18 and due to demand it is increased to 24 in 2014-15.(2) M.Tech in Signal Processing started in 2013-14 with intake of 18 and due to demand it is increased to 24 in 2014-15.Both UG and M.Tech in Communication Systems are accredited with NBA.
+The Department also provides Research guidance based on the specialized area and continuously producing the Doctor of Philosophy Degrees (Ph. D). So far more than 150 Ph. D degrees have been awarded in various disciplines.</p>
+ <h1>Faculty Details</h1>
+
+<table border=3>
+<tr>
+  <td>S.No.</td>
+  <td>Name</td>
+  <td>Designation</td>
+</tr>
+<tr>
+  <td></td>
+  <td>	</td>
+  <td>Professor</td>
+</tr>
+<tr>
+  <td></td>
+  <td>	</td>
+  <td>Professor</td>
+</tr>
+
+</table>
+
+<h2>Vision</h2>
+<p>To be one of the premier departments for achieving excellence in teaching and research with social responsibility and for producing innovative technical graduates in Computer Science and Engineering.</p>
+<h2>Mission</h2>
+<ul>
+   <li>To impart Computer Science and Engineering education by utilizing state of the art computing facilities.</li>
+   <li>To inculcate inter-disciplinary approach with reference to academic, industrial and research-oriented activities, infusing scholarly inquisitiveness, making an imprint in the technological, economic and social development of the nation.</li>
+   <li>To impart quality technical education of international standard in terms of providing adequate exposure to quality & methods, e-technologies and work flow automation in particular.</li>
+   <li>To develop adequate expertise within the department, to help and guide all other departments of the institution, constituent and affiliate colleges of the University, dealing with computer science education.</li>
+   <li> To develop capabilities within the department to help and guide industries with respect to the IT requirements.</li>
+</ul>
+
+
+</body>
+</html>

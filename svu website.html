@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sri Venkateswara University</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background: #4a90e2;
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .intro {
+            text-align: center;
+            padding: 20px;
+            font-size: 1.2em;
+        }
+        .departments {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            padding: 20px;
+        }
+        .dept {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            width: 250px;
+            text-align: center;
+            transition: transform 0.2s ease;
+        }
+        .dept:hover {
+            transform: scale(1.05);
+        }
+        .dept img {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+        .dept h3 {
+            margin: 15px 0 10px;
+        }
+        .dept p {
+            padding: 0 10px 15px;
+            font-size: 0.95em;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #eee;
+            margin-top: 30px;
+            font-size: 0.9em;
+        }
+        .map-link {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 10px 20px;
+            background-color: #005bbb;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .map-link:hover {
+            background-color: #003d80;
+        }
+
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Sri Venkateswara University</h1>
+    </header>
+
+    <div class="intro">
+        <p>Welcome to the B.Tech program of Sri Venkateswara University. Explore our diverse engineering departments and begin your academic journey with excellence and innovation.</p>
+    </div>
+
+    <div class="departments">
+        <a href="cse.html" target="_blank" class="dept">
+            <img src="https://svuniversity.edu.in/storage/2022/11/photo-2.jpg" alt="Computer Science">
+            <h3>Computer Science Engineering</h3>
+            <p>Focuses on algorithms, software development, AI, and emerging technologies.</p>
+        </a>
+        <a href="ece.html" target="_blank" class="dept">
+            <img src="https://svuniversity.edu.in/storage/2021/12/ece.png" alt="Electronics and Communication">
+            <h3>Electronics & Communication</h3>
+            <p>Deals with circuits, signals, embedded systems, and communication networks.</p>
+        </a>
+        <a href="eee.html" target="_blank" class="dept">
+            <img src="https://svuniversity.edu.in/storage/2022/11/photo-2-1024x596.jpg" alt="Electrical and Electronics">
+            <h3>Electrical & Electronics Engineering</h3>
+            <p>Studies electrical systems, control engineering, and power technologies.</p>
+        </a>
+        <a href="civ.html" target="_blank" class="dept">
+            <img src="https://svuniversity.edu.in/storage/2021/12/civil-768x219.jpg" alt="Civil Engineering">
+            <h3>Civil Engineering</h3>
+            <p>Involves structural design, construction, and sustainable infrastructure.</p>
+        </a>
+        <a href="cem.html" target="_blank" class="dept">
+            <img src="https://svuniversity.edu.in/storage/2022/03/Chemistry-Dept-1024x768.jpg" alt="Chemical Engineering">
+            <h3>Chemical Engineering</h3>
+            <p>Applies chemistry and physics to develop industrial processes and materials.</p>
+        </a>
+        <a href="mec.html" target="_blank" class="dept">
+            <img src="https://svuniversity.edu.in/storage/2021/12/SVU-College-of-Engineering-Workshop-768x219.jpg" alt="Mechanical Engineering">
+            <h3>Mechanical Engineering</h3>
+            <p>Focuses on mechanics, thermodynamics, robotics, and machine design.</p>
+        </a>
+    </div>
+ <a href="https://maps.app.goo.gl/H9TpebyZR5z6BEhB8" target="_blank" class="map-link">
+        View on Map
+    </a>
+    <footer>
+        &copy; 2025 Sri Venkateswara University. All rights reserved.
+    </footer>
+
+</body>
+</html>

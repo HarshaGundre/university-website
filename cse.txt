@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Title</title>
+</head>
+<body>
+    <h1>About C.S.E. Department</h1>
+    <p>The Department of Computer Science and Engineering (CSE) was started in the year 1986-87. This department has been offering undergraduate course in the Computer Science and Engineering and Post Graduate Course in Computer Science and Engineering (CSE) started in year 2005 respectively. Several research scholars are pursuing Ph.D. Programs in the areas viz. Machine Learning, Deep Learning, Big Data, Distributed Computing, Cloud Computing, Computer Networks, Natural Language Processing, Speech Processing, Software Architecture and Software Testing.</p>
+   
+</body>
+</html>

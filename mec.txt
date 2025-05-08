@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>mec</title>
+</head>
+<style>
+body{
+background-color:skyblue;
+}
+h1{
+color:blue;
+}
+p{
+color:brown;
+}
+img{
+width:400px;
+height:200px;
+}
+</style>
+<body>
+    <h1>Mechanical Engineering</h1>
+<img src="https://svuniversity.edu.in/storage/2021/12/SVU-College-of-Engineering-Workshop-768x219.jpg" alt="Description of image">
+<h1>About Mechanical Engineering Department</h1>
+ <p>The Department of Mechanical Engineering (ME) was started in the year 1959. This department is offering B.Tech in Mechanical Engineering and two M.Tech programs: Industrial Engineering and Production Engineering. Several Research scholars are pursuing Ph.Ds in all the classical areas of Mechanical Engineering and upcoming areas too. So far around 85 Ph.Ds have been awarded. The faculty members have published about 550 technical papers in different journals and conferences. The academic activities are supported by 14 laboratories and are refurbished with TEQIP funds. </p>
+ <p>The department is focusing major research in the areas of welding, vibration, tribology, metal cutting, composite materials, solar energy, lean manufacturing, CAPP, Supply chains, Quality control, etc. and also department of mechanical engineering is revising the courses in every two years to meet the industrial requirement. As a consequence, every year majority of students from mechanical engineering department are placed in different industries and getting admission in reputed organizations in and aboard.</p>
+
+ <h1>Faculty Details</h1>
+
+<table border=3>
+<tr>
+  <td>S.No.</td>
+  <td>Name</td>
+  <td>Designation</td>
+</tr>
+<tr>
+  <td>1.</td>
+  <td>Dr. G. Bhanodaya Reddy</td>
+  <td>Professor</td>
+</tr>
+<tr>
+  <td>2.</td>
+  <td>Dr. P. Venkataramaiah</td>
+  <td>Professor</td>
+</tr>
+<tr>
+  <td>3.</td>
+  <td>Dr. V. Diwakar Reddy</td>
+  <td>Professor</td>
+</tr>
+<tr>
+  <td>4.</td>
+  <td>Dr. Hema Pothur</td>
+  <td>Professor</td>
+</tr>
+<tr>
+  <td>5.</td>
+  <td>Dr. K. Dharma Reddy</td>
+  <td>Professor</td>
+</tr>
+<tr>
+  <td>6.</td>
+  <td>Sri. K. Rajesh Babu</td>
+  <td>Associate Professor</td>
+</tr>
+<tr>
+  <td>7.</td>
+  <td>Dr. A. Sreenivasulu Reddy</td>
+  <td>Associate Professor</td>
+</tr>
+<tr>
+  <td>8.</td>
+  <td>Dr. K. Aruna</td>
+  <td>Associate Professor</td>
+</tr>
+<tr>
+  
+</table>
+
+<h2>Vision</h2>
+<p>To produce globally competitive and committed Civil Engineers with ethical values to cater to the needs of the society and strive for sustainable development through research and innovation.</p>
+
+<h2>Mission</h2>
+<ul>
+   <li> To impart quality education with the support of state-of-art Infrastructure and faculty.</li>
+   <li>To inculcate inquisitiveness, infuse training and research for the societal development.</li>
+   <li>To address growing needs of sustainable infrastructure development.</li>
+   <li>To provide technical advice and support to the industry.</li>
+   <li>To provide awareness of global economic problems and contribute to Nation building.</li>
+   <li>To provide entrepreneurial skills for the upliftment of the country.</li>
+  
+</ul>
+
+
+</body>
+</html>
